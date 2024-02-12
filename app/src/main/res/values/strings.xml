@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmApp</string>
+    <string name="top_title">Популярные</string>
+    <string name="favorite_title">Избранное</string>
+    <string name="details_title">Подробно</string>
+    <string name="film_preview_img">Постер</string>
+    <string name="loading">Загрузка...</string>
+    <string name="loading_failed">Загрузка не удалась</string>
+    <string name="retry">Повторить</string>
+    <string name="details_fetch_failed">Ошибка загрузки</string>
+    <string name="genres">Жанры:</string>
+    <string name="countries">Страны:</string>
+</resources>
